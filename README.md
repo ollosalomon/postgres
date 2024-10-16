@@ -1,0 +1,1 @@
+Ce projet permet d'importer des données depuis un fichier CSV dans une base de données PostgreSQL, le tout géré via Docker. Vous y trouverez une explication détaillée de chaque service Docker, ainsi qu'un guide pour exécuter et maintenir le projet.

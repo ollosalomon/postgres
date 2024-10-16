@@ -1,0 +1,22 @@
+site_name: Data copy Docs
+site_url: https://example.com/
+repo_url: https://github.com
+site_description: This site documents the data copy pipeline project.
+site_author: author
+copyright: Copyright © 2024 ollo.
+
+nav:
+  - Home: index.md
+  - Project Overview: overview.md
+  - Docker Services:
+      - PostgreSQL: postgresql.md
+      - Python Application: python_app.md
+      - pgAdmin: pgadmin.md
+      - MkDocs: mkdocs.md
+  - Dockerfile: dockerfile.md
+  - Docker Compose: docker-compose.md
+  - How to Run: guide.md
+  - Demo database: demo_db.md
+
+theme:
+  name: material
